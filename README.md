@@ -32,7 +32,7 @@
 
 ###
 
- ## <p align="left">I'm Davit, Junior Android Developer  from Georgia<br><br>- 🔭 I’m working as an Android Developer<br>- 📚 I'm currently working on Online shop android app "ESHOPE" <br>- ⚡ In my free time I play chess</p>
+ ## <p align="left">I'm Davit, Junior Android Developer  from Georgia</p>
 
 ###
 
