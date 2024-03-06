@@ -24,15 +24,16 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+
 ###
 
-<p align="left">I'm Davit,  from Georgia<br><br>- 🔭 I’m working as an Android Developer<br>- 📚 I'm currently working on online shop project<br>- ⚡ In my free time I play chess</p>
+<p align="left">I'm Davit,  from Georgia<br><br>- 🔭 I’m working as an Android Developer<br>- 📚 I'm currently working on Online shop android app "ESHOPE" <br>- ⚡ In my free time I play chess</p>
 
 ###
 
@@ -73,6 +74,8 @@
 </div>
 
 ###
+
+<h2>If you have any questions or feedback, feel free to <a href="datamamuladze@gmail.com">email us</a>.</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidm2005&show_icons=true&locale=en&layout=compact" alt="davidm2005" /></p>
 
