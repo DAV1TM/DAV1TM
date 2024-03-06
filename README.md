@@ -75,7 +75,7 @@
 
 ###
 
-<h2>If you have any questions or feedback, feel free to <a href="datamamuladze@gmail.com">email us</a>.</h2>
+<h2>If you have any questions or feedback, feel free to email me: <span style="color:red" >datamamuladze@gmail.com</span>.</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidm2005&show_icons=true&locale=en&layout=compact" alt="davidm2005" /></p>
 
