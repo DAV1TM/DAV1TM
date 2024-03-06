@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Davit,  from Georgia<br><br>- 🔭 I’m working as an Android Developer<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I play chess</p>
+<p align="left">I'm Davit,  from Georgia<br><br>- 🔭 I’m working as an Android Developer<br>- 📚 I'm currently working on online shop project<br>- ⚡ In my free time I play chess</p>
 
 ###
 
