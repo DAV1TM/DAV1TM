@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **(Andazioni)[https://github.com/DAV1TM/Andazioni]**
+ 🔭 I’m currently working on **[Andazioni](https://github.com/DAV1TM/Andazioni)**
  
  🌱 I’m currently learning **Network Programming, Sockets(c++)**
 
