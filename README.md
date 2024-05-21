@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Andazioni**
  
- 🌱 I’m currently learning **Network Programming**
+ 🌱 I’m currently learning **Network Programming, Sockets(c++)**
 
 💬 Ask me about **Kotlin, C++, Firebase...**
 
