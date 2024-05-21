@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Network Programming, Sockets(c++)**
 
-💬 Ask me about **Kotlin, C++, Firebase...**
+💬 Ask me about **Kotlin, Python, C++, Firebase...**
 
  </div>
  
