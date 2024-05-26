@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davit!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Georgia 🇬🇪</h3>
+<h3 align="center">A passionate Software Developer from Georgia 🇬🇪</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **[Andazioni](https://github.com/DAV1TM/Andazioni)**
  
- 🌱 I’m currently learning **Network Programming, Sockets(c++)**
+ 🌱 I’m currently learning **Network Programming(c++)**
 
-💬 Ask me about **Kotlin, Python, C++, Firebase...[here](https://github.com/DAV1TM/Feedback/issues/1)**
+💬 Ask me about **Kotlin, Python, C++, Firebase... [here](https://github.com/DAV1TM/Feedback/issues/1)**
 
  </div>
  
