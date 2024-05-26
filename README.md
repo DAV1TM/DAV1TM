@@ -11,8 +11,6 @@
 <div align="center">
  
  🔭 I’m currently working on **[Andazioni](https://github.com/DAV1TM/Andazioni)**
- 
- 🌱 I’m currently learning **Network Programming(c++)**
 
 💬 Ask me about **Kotlin, Python, C++, Firebase... [here](https://github.com/DAV1TM/Feedback/issues/1)**
 
