@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DAV1TM.DAV1TM" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=davitm7.davitm7" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davit!;" />
@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[Andazioni](https://github.com/DAV1TM/Andazioni)**
+ 🔭 I’m currently working on **[Andazioni](https://github.com/davitm7/Andazioni)**
 
-💬 Ask me about **Kotlin, Python, C++, Firebase... [here](https://github.com/DAV1TM/Feedback/issues/1)**
+💬 Ask me about **Kotlin, Python, C++, Firebase... [here](https://github.com/davitm7/Feedback/issues/1)**
 
  </div>
  
@@ -79,8 +79,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DAV1TM&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DAV1TM&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=davitm7&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=davitm7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
